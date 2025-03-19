@@ -1,4 +1,4 @@
-﻿class PemrosesData
+class PemrosesData
 {
     public double DapatkanNilaiTerbesar<T>(T data, T data1, T data2)
     {
